@@ -1,6 +1,6 @@
 # React-Native Ecommerce App :bomb:
 
-# Hi, We are Team Charlie! 👋
+# Hi 👋
 
 [![Up to Date](https://github.com/ikatyang/emoji-cheat-sheet/workflows/Up%20to%20Date/badge.svg)](https://github.com/UsamaSarwar/reactnative-ecommerce-charlie)
 
